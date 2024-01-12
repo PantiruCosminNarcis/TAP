@@ -1,0 +1,35 @@
+﻿  Banca.cpp
+  ex1.cpp
+D:\Aplicatii C(7,11): error C2512: 'Banca': no appropriate default constructor available
+  D:\Aplicatii C(75,7):
+  see declaration of 'Banca'
+  
+D:\Aplicatii C(8,11): error C2512: 'Banca': no appropriate default constructor available
+  D:\Aplicatii C(75,7):
+  see declaration of 'Banca'
+  
+D:\Aplicatii C(15,12): error C2512: 'Client': no appropriate default constructor available
+  D:\Aplicatii C(22,7):
+  see declaration of 'Client'
+  
+D:\Aplicatii C(16,12): error C2512: 'Client': no appropriate default constructor available
+  D:\Aplicatii C(22,7):
+  see declaration of 'Client'
+  
+D:\Aplicatii C(30,16): error C2512: 'ContBancar': no appropriate default constructor available
+  D:\Aplicatii C(131,7):
+  see declaration of 'ContBancar'
+  
+D:\Aplicatii C(31,16): error C2512: 'ContBancar': no appropriate default constructor available
+  D:\Aplicatii C(131,7):
+  see declaration of 'ContBancar'
+  
+D:\Aplicatii C(49,16): error C2512: 'ContBancar': no appropriate default constructor available
+  D:\Aplicatii C(131,7):
+  see declaration of 'ContBancar'
+  
+D:\Aplicatii C(50,16): error C2512: 'ContBancar': no appropriate default constructor available
+  D:\Aplicatii C(131,7):
+  see declaration of 'ContBancar'
+  
+  Generating Code...
